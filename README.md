@@ -7,7 +7,6 @@
 `Developed by Alen Pariyar`
 ![image](https://github.com/user-attachments/assets/1bccc28e-fb80-4d4e-9b9e-6526e60bc3b3)
 
-![image](https://github.com/user-attachments/assets/51592a60-1171-4a6f-a380-fb396e17f982)
 
 
 ## How it works ?
@@ -54,6 +53,7 @@
 ```
 
 * Gives result as
+  
   ![image](https://github.com/user-attachments/assets/51e96861-2bb8-4396-85af-d75569ba54ca)
 
 
